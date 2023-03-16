@@ -8,3 +8,7 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+
+
+//* { https://mock-server-app-abcn.onrender.com/users }
