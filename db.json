@@ -1,169 +1,49 @@
 {
-  "user": [
+  "users": [
     {
-      "id": 1,
-      "name": "Sejal",
-      "email": "Sejal@gmail.com",
-      "password": "sejal"
+      "name": "Sejal Jaiswal",
+      "level": "easy",
+      "id": 1
     },
     {
-      "name": "riya",
-      "email": "riya@gmail.com",
-      "password": "riya",
+      "name": "Sejal Jaiswal",
+      "level": "easy",
       "id": 2
     },
     {
-      "name": "priya",
-      "email": "priya@gmail.com",
-      "password": "priya",
+      "name": "Sejal Jaiswal",
+      "level": "medium",
       "id": 3
+    },
+    {
+      "name": "sdafsa",
+      "level": "medium",
+      "id": 4
+    },
+    {
+      "name": "asdf",
+      "level": "medium",
+      "id": 5
+    },
+    {
+      "name": "sadfs",
+      "level": "medium",
+      "id": 6
+    },
+    {
+      "name": "sadfs",
+      "level": "medium",
+      "id": 7
+    },
+    {
+      "name": "Sejal Jaiswal",
+      "level": "medium",
+      "id": 8
     }
   ],
-   "movies":[
-	{
-		"id" : 1,
-		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
-		"year" : 2022,
-		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
-	},
-	{
-		"id" : 2,
-		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"title" : "I Am Legend",
-		"director" : "Francis Lawrence",
-		"year" : 2007,
-		"genre" : "Horror",
-		"IMDB_Rating" : 7.2,
-		"ticket" : 200
-	},
-  {
-	"id": 3,
-	"poster": "https://th.bing.com/th/id/OIP.guI06g46GZRnR0UV1KfzxQHaK0?pid=ImgDet&w=620&h=906&rs=1",
-	"title": "Doctor Strange in the Multiverse of Madness",
-	"director": "Sam Raimi",
-	"year": 2022,
-	"genre": "Comedy",
-	"IMDB_Rating": 6.8,
-	"ticket": 200
-},
-{
-	"id": 4,
-	"poster": "https://th.bing.com/th/id/OIP.guI06g46GZRnR0UV1KfzxQHaK0?pid=ImgDet&w=620&h=906&rs=1",
-	"title": "Black Widow",
-	"director": "Cate Shortland",
-	"year": 2021,
-	"genre": "Comedy",
-	"IMDB_Rating": 7.0,
-	"ticket": 250
-},
-{
-	"id": 5,
-	"poster": "https://th.bing.com/th/id/OIP.guI06g46GZRnR0UV1KfzxQHaK0?pid=ImgDet&w=620&h=906&rs=1",
-	"title": "The Suicide Squad",
-	"director": "James Gunn",
-	"year": 2021,
-	"genre": "Romance",
-	"IMDB_Rating": 7.3,
-	"ticket": 220
-},
-{
-	"id": 6,
-	"poster": "https://th.bing.com/th/id/OIP.guI06g46GZRnR0UV1KfzxQHaK0?pid=ImgDet&w=620&h=906&rs=1",
-	"title": "Free Guy",
-	"director": "Shawn Levy",
-	"year": 2021,
-	"genre": "Action",
-	"IMDB_Rating": 7.6,
-	"ticket": 230
-},
-{
-	"id": 7,
-	"poster": "https://th.bing.com/th/id/OIP.guI06g46GZRnR0UV1KfzxQHaK0?pid=ImgDet&w=620&h=906&rs=1",
-	"title": "No Time to Die",
-	"director": "Cary Joji Fukunaga",
-	"year": 2021,
-	"genre": "Romance",
-	"IMDB_Rating": 7.4,
-	"ticket": 250
-},
-{
-	"id": 8,
-	"poster": "https://th.bing.com/th/id/OIP.5g5K509AYjDZbZkQenbJ_wHaHa?pid=ImgDet&w=1024&h=1024&rs=1",
-	"title": "Dune",
-	"director": "Denis Villeneuve",
-	"year": 2021,
-	"genre": "Sci-Fi",
-	"IMDB_Rating": 8.3,
-	"ticket": 260
-},
-{
-	"id": 9,
-	"poster": "https://th.bing.com/th/id/OIP.5g5K509AYjDZbZkQenbJ_wHaHa?pid=ImgDet&w=1024&h=1024&rs=1",
-	"title": "Tenet",
-	"director": "Christopher Nolan",
-	"year": 2020,
-	"genre": "Action",
-	"IMDB_Rating": 7.5,
-	"ticket": 240
-},
-
-{
-	"id": 10,
-	"poster": "https://th.bing.com/th/id/OIP.5g5K509AYjDZbZkQenbJ_wHaHa?pid=ImgDet&w=1024&h=1024&rs=1",
-	"title": "The French Dispatch",
-	"director": "Wes Anderson",
-	"year": 2021,
-	"genre": "Comedy",
-	"IMDB_Rating": 7.8,
-	"ticket": 180
-},
-
-{
-	"id": 11,
-	"poster": "https://th.bing.com/th/id/OIP.5g5K509AYjDZbZkQenbJ_wHaHa?pid=ImgDet&w=1024&h=1024&rs=1",
-	"title": "The Eternals",
-	"director": "Chloé Zhao",
-	"year": 2021,
-	"genre": "Horror",
-	"IMDB_Rating": 7.0,
-	"ticket": 260
-},
-
-{
-	"id": 12,
-	"poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72be5232039857.566bcebd62cb8.jpg",
-	"title": "Jungle Cruise",
-	"director": "Jaume Collet-Serra",
-	"year": 2021,
-	"genre": "Comedy",
-	"IMDB_Rating": 6.8,
-	"ticket": 220
-},
-
-{
-	"id": 13,
-	"poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72be5232039857.566bcebd62cb8.jpg",
-	"title": "Shang-Chi and the Legend of the Ten Rings",
-	"director": "Destin Daniel Cretton",
-	"year": 2021,
-	"genre": "Action",
-	"IMDB_Rating": 7.9,
-	"ticket": 240
-},
-{
-	"id": 14,
-	"poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72be5232039857.566bcebd62cb8.jpg",
-	"title": "Spider-Man: No Way Home",
-	"director": "Jon Watts",
-	"year": 2021,
-	"genre": "Horror",
-	"IMDB_Rating": 8.5,
-	"ticket": 270
-}
-
+  "scores": [
+    {
+      "id": 1
+    }
   ]
 }
