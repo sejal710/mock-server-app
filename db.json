@@ -26,24 +26,68 @@
       "id": 5
     },
     {
-      "name": "sadfs",
+      "name": "Priya",
       "level": "medium",
       "id": 6
     },
     {
-      "name": "sadfs",
-      "level": "medium",
+      "name": "Rudrakshi",
+      "level": "hard",
       "id": 7
     },
     {
-      "name": "Sejal Jaiswal",
-      "level": "medium",
+      "name": "Khatiza",
+      "level": "hard",
       "id": 8
+    },
+    {
+      "name": "sdfwe",
+      "level": "easy",
+      "id": 9
     }
   ],
   "scores": [
     {
+      "name": "Sejal Jaiswal",
+      "level": "Easy",
+      "Score": 7,
       "id": 1
+    },
+    {
+      "name": "Priya",
+      "level": "Medium",
+      "Score": 7,
+      "id": 2
+    },
+    {
+      "name": "suhani",
+      "Score": 0,
+      "level": "hard",
+      "id": 3
+    },
+    {
+      "name": "Rudrakshi",
+      "Score": 10,
+      "level": "hard",
+      "id": 4
+    },
+    {
+      "name": "Khatiza",
+      "Score": 10,
+      "level": "hard",
+      "id": 5
+    },
+    {
+      "name": "Khatiza",
+      "Score": 10,
+      "level": "hard",
+      "id": 6
+    },
+    {
+      "name": "sdfwe",
+      "Score": 0,
+      "level": "easy",
+      "id": 7
     }
   ]
 }
